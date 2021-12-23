@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+#this is the client file
 import socket
 
 HOST = '127.0.0.1'
